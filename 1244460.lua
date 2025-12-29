@@ -2,6 +2,8 @@ addappid(1244460)
 addappid(228988)
 setManifestid(228988,"6645201662696499616")
 addappid(228990)
-setManifestid(228990,"5087715316087945828")
+setManifestid(228990,"1829726630299308803")
 addappid(1244461,0,"f32fa164f046ff769b0eb4c8ca8c0841866087c40db3edbec4d5f79b299e5fbe")
 setManifestid(1244461,"5887145527266995023")
+
+-- Made by LightningFast with love💜⚡
