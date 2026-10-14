@@ -1,6 +1,4 @@
 addappid(1100600)
-addappid(1100740)
-addappid(1100741)
 addappid(1100750)
 addappid(1100600,0,"c4702f7c2a831ecf0b3f27199bc3ea4f19fdaed80a393f016b5bbccde3e346ea")
 addappid(1100601,0,"b1f488b77d6c24b132a67ceccaa83de97bc9d3634ab47705653a2929f4cdc936")
